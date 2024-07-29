@@ -48,7 +48,6 @@ Code written in Python using Jupiter notebook and Visual Studio Code. Dashboards
 ## Links
 
 [Repository](https://github.com/Blyatman-coder/berlin_airport_analysis.git)  
-[Slides](https://gamma.app/docs/Berlin-Brandenburg-Airport-A-Comprehensive-Analysis-0tilr74plb95g55)  
 [Airport](https://ber.berlin-airport.de/en.html)  
 [Arrival Dashboard](https://public.tableau.com/views/ArrivalsBerlin/Analysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 [Departure Dashboard](https://public.tableau.com/views/DeparturesBerlin/Analysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
